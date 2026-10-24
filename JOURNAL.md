@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 3 | Tier 1 | 5.25h | 5 |
+| Week 3 | Tier 1 | 4.9h | 5 |
 
 ## Contents
 
@@ -38,7 +38,7 @@ The guide mentioned 3D shapes for the parts so that they actually show up in 3D 
 
 ### 2026-10-20 – Today, I worked on the schematic diagram. It took me bit to decide what exactly I wanted to include in my project. Which is shown in this image where I changed my mind on how many capacitive touch key
 
-**1.5h**
+**1.15h**
 
 Today, I worked on the schematic diagram. It took me bit to decide what exactly I wanted to include in my project. Which is shown in this image where I changed my mind on how many capacitive touch keys I wanted to include in my design, as I personally found them far more interesting and new compared to the other components at first so I wanted to add a lot of them and create a very satisfying design for them.
 
