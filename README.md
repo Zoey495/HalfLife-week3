@@ -9,7 +9,7 @@ This is the schematic diagram -->
 
 <img width="1128" height="510" alt="image" src="https://github.com/user-attachments/assets/ff2ac462-c001-4d3a-8bc1-2e60bf79bc2a" />
 
-A schematic diagram is a diagram showing how all the components are connected. Using kicad, you assign footprints/real components to every symbol and device. This allows kicad to translate the schematic diagram into a PCB board. 
+A schematic diagram is a diagram showing how all the components are connected. Using kicad, you assign footprints/real components to every symbol and device. This allows kicad to translate the schematic diagram into a PCB. 
 
 Using kicad, I created a PCB -->
 
